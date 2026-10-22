@@ -1,0 +1,5 @@
+Run npm ci
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE unable to resolve dependency tree
+npm ERR! dependency conflict between react and peer version
+Error: Process completed with exit code 1.

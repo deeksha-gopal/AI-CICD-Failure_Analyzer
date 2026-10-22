@@ -1,0 +1,4 @@
+Run docker build .
+#6 [4/5] COPY requirements.txt ./
+#6 ERROR: failed to solve: failed to compute cache key: COPY failed: file not found in build context
+Error: Process completed with exit code 1.

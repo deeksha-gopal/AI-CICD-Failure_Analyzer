@@ -1,0 +1,4 @@
+Running integration tests in container
+worker process Killed
+container exited with exit code 137
+Error: Process completed with exit code 137.
